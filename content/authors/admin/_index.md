@@ -45,7 +45,7 @@ social:
   link: '/#contact'
 - icon_pack: ai
   icon: researchgate
-  link: https://www.researchgate.net/profile/Rosana-Cunha
+  link: https://www.researchgate.net/profile/Luciana-Martins-2
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
