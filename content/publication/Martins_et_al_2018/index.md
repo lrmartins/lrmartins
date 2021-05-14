@@ -9,7 +9,7 @@ authors:
   - J. & Tavares
   - M.
 doi: https://doi:10.1017/S0025315416001569
-publication: _Marine Biodiversity Records_
+publication: _Journal of the Marine Biological Association of the United Kingdom_
 draft: false
 featured: false
 image:
