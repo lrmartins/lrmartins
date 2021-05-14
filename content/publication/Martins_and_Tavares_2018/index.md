@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - M. & Tavares
+  - L. & Tavares
   - M.
 doi: https://doi.org/10.11646/zootaxa.4407.4.5
 publication: _Zootaxa_
