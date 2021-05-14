@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - M.; Souto
+  - L.; Souto
   - C.; Braga 
   - J. & Tavares
   - M.
