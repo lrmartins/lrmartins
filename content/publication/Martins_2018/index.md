@@ -1,5 +1,5 @@
 ---
-title: "Taxonomy of the genus _Thyonella_ (Holothuroidea: Dendrochirotida), with mention of the first record of _T. sabanillaensis_ from the southwestern Atlantic Ocean"
+title: "Taxonomy of the genus Thyonella (Holothuroidea: Dendrochirotida), with mention of the first record of T. sabanillaensis from the southwestern Atlantic Ocean"
 publication_types:
   - "2"
 authors:
