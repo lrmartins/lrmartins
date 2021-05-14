@@ -29,9 +29,6 @@ address: Museum of Zoology of the University of São Paulo, Marine Invertebrates
   postcode: '04263-000'
   country: Brazil
   country_code: BR
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
 contact_links:
   - icon: twitter
     icon_pack: fab
