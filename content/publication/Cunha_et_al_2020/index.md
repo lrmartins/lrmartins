@@ -19,5 +19,10 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-04-13T03:25:21.979Z
+links:
+  - name: Project
+    url: https://lucianamartins.netlify.app/project/taxonomy-of-the-asteroidea-echinodermata-from-bahia-brazil/
+  - name: Sup. Material
+    
 
 ---
