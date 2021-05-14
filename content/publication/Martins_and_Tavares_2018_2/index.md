@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - M. & Tavares
+  - L. & Tavares
   - M.
 doi: https://doi.org/10.3897/zoologia.35.e24573
 publication: _Zoologia_
