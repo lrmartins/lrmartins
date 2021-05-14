@@ -6,7 +6,7 @@ authors:
   - Martins
   - L. & Tavares
   - M.
-doi: https://doi.org/10.11646/zootaxa.4407.4.5
+doi: https://doi.org/10.11646/zootaxa.4429.1.8
 publication: _Zootaxa_
 draft: false
 featured: false
