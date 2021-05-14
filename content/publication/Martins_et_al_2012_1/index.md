@@ -1,5 +1,5 @@
 ---
-title: "First record of Holothuria (Theelothuria) princeps and _Thyone pawsoni_ (Echinodermata: Holothuroidea) in the South Atlantic Ocean"
+title: "First record of Holothuria (Theelothuria) princeps and Thyone pawsoni (Echinodermata: Holothuroidea) in the South Atlantic Ocean"
 publication_types:
   - "2"
 authors:
