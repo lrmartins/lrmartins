@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - M.; Souto
+  - L.; Souto
   - C. & Menegola
   - C.
 doi: https://doi.org/10.1017/S1755267212000796
