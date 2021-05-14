@@ -20,22 +20,25 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: martinsrluciana@gmail.com
-phone: +55 (11) 2065-8100
-address: Museum of Zoology of the University of São Paulo, Marine Invertebrates Laboratory
-street: Nazare, 481, Ipiranga
-city: São Paulo
-region: SP
-postcode: '04263-000'
+address: "Museum of Zoology of the University of São Paulo, Marine Invertebrates Laboratory"
+city: "São Paulo"
+contact_links: 
+  - 
+    icon: twitter
+    icon_pack: fab
+    link: "https://twitter.com/martinsrlu"
+  - 
+    icon: skype
+    icon_pack: fab
+    link: "skype:echo123?call"
 country: Brazil
 country_code: BR
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    link: 'https://twitter.com/martinsrlu'
-  - icon: skype
-    icon_pack: fab
-    link: 'skype:echo123?call'
+email: martinsrluciana@gmail.com
+phone: "+55 (11) 2065-8100"
+postcode: 04263-000
+region: SP
+street: "Nazare, 481, Ipiranga"
+
 
 # Site header
 
