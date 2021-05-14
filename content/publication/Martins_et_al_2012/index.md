@@ -1,5 +1,5 @@
 ---
-title: Echinoderm harvesting in Todos-os-Santos Bay, Bahia state, Brazil: the aquarium trade
+title: "Echinoderm harvesting in Todos-os-Santos Bay, Bahia state, Brazil: the aquarium trade"
 publication_types:
   - "2"
 authors:
