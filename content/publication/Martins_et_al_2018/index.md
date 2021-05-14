@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Martins
   - M.; Souto
-  - C.; Braga
+  - C.; Braga 
   - J. & Tavares
   - M.
 doi: https://doi:10.1017/S0025315416001569
