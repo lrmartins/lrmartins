@@ -2,7 +2,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 
-weight: 25
+weight: 15
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -15,7 +15,7 @@ interval: false
 height: 500px
 
 
-# item:
+item:
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: Tomo.png  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1. 
