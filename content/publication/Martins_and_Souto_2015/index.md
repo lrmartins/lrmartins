@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - M. & Souto
+  - L. & Souto
   - C. 
 doi: https://doi.org/10.11646/zootaxa.3919.2.8
 publication: _Zootaxa_
