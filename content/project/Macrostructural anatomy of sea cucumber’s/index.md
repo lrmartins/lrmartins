@@ -1,7 +1,7 @@
 ---
 title: Macrostructural anatomy of sea cucumber’s
 date: 2019-06-01T04:02:47.483Z
-summary: Macrostructural anatomy of sea cucumber’s (Echinodermata: Holothuroidea) calcareous rings revealed under micro-computed tomography (μCT).
+summary: "Macrostructural anatomy of sea cucumber’s (Echinodermata: Holothuroidea) calcareous rings revealed under micro-computed tomography (μCT)."
 draft: false
 featured: false
 image:
