@@ -1,7 +1,7 @@
 ---
-title: ProTrindade Marine Invertebrate Project
+title: Taxonomic review of the Shallow Water Brazilian holothuroids
 date: 2021-05-01T04:17:18.323Z
-summary: Taxonomic review of the Shallow Water Brazilian holothuroids.
+summary: Review the taxonomy of the holothuroids from shallow water in Brazil from morphological studies.
 draft: false
 featured: false
 image:
