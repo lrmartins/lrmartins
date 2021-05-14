@@ -6,7 +6,7 @@ authors:
   - Martins
   - M.
 doi: https://doi.org/10.11646/zootaxa.4527.1.6
-publication: _Marine Biodiversity Records_
+publication: _Zootaxa_
 draft: false
 featured: false
 image:
