@@ -1,5 +1,5 @@
 ---
-title: "New species of the genera Havelockia and Thyone (Echinodermata: Holothuroidea) and first record of T. crassidisca from the southwestern Atlantic Ocean."
+title: "New species of the genera Havelockia and Thyone (Echinodermata: Holothuroidea) and first record of T. crassidisca from the southwestern Atlantic Ocean"
 publication_types:
   - "2"
 authors:
