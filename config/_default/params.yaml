@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "martinsrluciana@gmail.com"
-phone = "+55 (11) 2065-8100"
+email : "martinsrluciana@gmail.com"
+phone : "+55 (11) 2065-8100"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address : {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
 
 # Site header
