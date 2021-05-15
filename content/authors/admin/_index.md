@@ -46,9 +46,15 @@ social:
 - icon_pack: ai
   icon: researchgate
   link: https://www.researchgate.net/profile/Luciana-Martins-2
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon_pack: ai
+  icon: orcid
+  link: https://orcid.org/0000-0002-8107-3265
+- icon_pack: ai
+  icon: lattes  
+  link: http://lattes.cnpq.br/4661653617529476
+- icon_pack: ai
+  icon: cv
+  link: files/CV - Luciana Martins.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luciana-martins-985457144/
