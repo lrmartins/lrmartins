@@ -1,7 +1,7 @@
 ---
 title: A new species of _Parathyone_ from northeastern Brazil, with a key to species
 reading_time: false
-summary: In this paper we described a new species of sea cucumber (Holothuroidea: Dendrochirotida: Cucumariidae) from Brazilian waters
+summary: "In this paper we described a new species of sea cucumber (Holothuroidea: Dendrochirotida: Cucumariidae) from Brazilian waters"
 authors:
 date: "2021-05-14"
 lastmod: "2021-05-14"
