@@ -26,7 +26,7 @@ main:
     url: '#taxa Name'
     weight: 70
   - name: News
-    url: '#posts'
+    url: '#news'
     weight: 80
   - name: Photos
     url: '#photos'
