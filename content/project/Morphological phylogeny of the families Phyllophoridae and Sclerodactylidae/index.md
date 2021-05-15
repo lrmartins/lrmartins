@@ -1,7 +1,7 @@
 ---
 title: Morphological phylogeny of the families Phyllophoridae and Sclerodactylidae
 date: 2013-06-01T04:02:47.483Z
-summary: "Are the families Phyllophoridae and Sclerodactylidae monophyletics?"
+summary: "Are the families Phyllophoridae and Sclerodactylidae (Echinodermata: Holothuroidea: Dendrochirotida) monophyletics?"
 draft: false
 featured: false
 image:
