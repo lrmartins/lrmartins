@@ -23,6 +23,6 @@ links:
   - name: Project
     url: https://lucianamartins.netlify.app/project/taxonomy-of-the-asteroidea-echinodermata-from-bahia-brazil/
   - name: Sup. Material
-    url: https://github.com/lrmartins/lrmartins/blob/master/static/file/Cunhaetal.2021_Supplementalmaterial.pdf
+    url: static/file/Cunhaetal.2021_Supplementalmaterial.pdf
     
 ---
