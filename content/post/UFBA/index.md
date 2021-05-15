@@ -19,6 +19,6 @@ graduated from the university. it is an honor for me to receive this nomination,
 
 ---
 
-![paper_asteroidea](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/Paper_asteroidea/featured.jpg "paper_asteroidea")
+![UFBA](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/UFBA/featured.png "UFBA")
 
 ---
