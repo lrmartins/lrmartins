@@ -29,7 +29,7 @@ experience:
     location: Bahia, Brazil
     date_start: '2020-01-01'
     date_end: ''
-    description: Undergraduate
+    description: "Undergraduate"
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -38,8 +38,8 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: |2-
-    Responsibilities include:
+    escription: |2-
+        Responsibilities included
         
         * Analysing
         * Modelling
