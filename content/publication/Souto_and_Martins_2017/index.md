@@ -1,13 +1,13 @@
 ---
-title: Os equinodermos
+title: Os equinodermos. 
+subtitle: "In: Nunes, J.M.C. & de Matos, M.R.B. (eds.) Litoral Norte da Bahia: caracterização ambiental, biodiversidade e conservação."
 publication_types:
   - "6"
 authors:
   - Souto
   - C. & Martins
   - L.
-doi: https://doi.org/10.11646/zootaxa.4955.1.1
-publication: _Zootaxa_
+publication: _EDUFBA_
 draft: false
 featured: false
 image:
@@ -15,5 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2017-04-13T03:25:21.979Z
-    
+links:
+  - name: PDF
+    url: ""   
 ---
