@@ -4,7 +4,6 @@ reading_time: false
 summary: "In this paper we described a new species of sea cucumber (Holothuroidea: Dendrochirotida: Cucumariidae) from Brazilian waters"
 authors:
 date: "2021-05-14"
-lastmod: "2021-05-14"
 profile: false
 comments: false
 draft: false
