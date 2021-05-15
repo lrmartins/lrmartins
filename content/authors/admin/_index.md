@@ -54,7 +54,7 @@ social:
   link: http://lattes.cnpq.br/4661653617529476
 - icon_pack: ai
   icon: cv
-  link: files/CV - Luciana Martins.pdf
+  link: authors/admin/CV - Luciana Martins.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luciana-martins-985457144/
