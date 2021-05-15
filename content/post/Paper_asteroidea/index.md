@@ -21,3 +21,9 @@ and biological data from local academic research that have never been published 
 website ([Zootaxa](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4955.1.1)).
 
 ---
+
+--
+
+![paper_asteroidea](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/Paper_asteroidea/featured.jpg "paper_asteroidea")
+
+---
