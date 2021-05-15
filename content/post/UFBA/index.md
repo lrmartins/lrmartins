@@ -1,7 +1,7 @@
 ---
 reading_time: false
 title: Indicated as an outstanding alumni!
-summary: The Universidade Federal da Bahia has indicated me as an outstanding alumni
+summary: The Universidade Federal da Bahia, home of my bachelor and master degree, has indicated me as an outstanding alumni
 authors:
 date: 2021-05-10
 profile: false
