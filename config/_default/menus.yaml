@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 30
   - name: SciComm
-    url: '#sciComm'
+    url: '#scicomm'
     weight: 40
   - name: Teaching
     url: '#teaching'
