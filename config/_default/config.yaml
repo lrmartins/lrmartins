@@ -90,3 +90,7 @@ frontmatter:
   lastmod: ["lastmod", "date", "publishDate", ":git"]
   publishDate: ["publishDate", "date"]
   expiryDate: ["expiryDate"]
+gallery_item:
+album: "images"
+image: "img1.jpg"
+caption: "Write your image caption here"
