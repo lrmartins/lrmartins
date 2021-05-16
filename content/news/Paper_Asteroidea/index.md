@@ -3,8 +3,7 @@ reading_time: false
 title: Asteroidea from Bahia, Brazil
 summary: "Taxonomy of the sea stars (Echinodermata: Asteroidea) from Bahia State, including ontogenetic variation and an illustrated key to the Brazilian species" 
 authors:
-date: "2021-04-15"
-lastmod: "2021-04-15"
+date: 2021-04-15
 profile: false
 comments: false
 draft: false
