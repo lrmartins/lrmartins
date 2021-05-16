@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: News
-subtitle: "Click for more info"
+title: SciComm
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: news
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
