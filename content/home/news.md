@@ -14,7 +14,7 @@ subtitle: "Click for more info"
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: news
+  page_type: post
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
