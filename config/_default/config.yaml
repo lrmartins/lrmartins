@@ -74,13 +74,13 @@ related:
       weight: 100
     - name: categories
       weight: 70
- content:
+content:
   archive:
-    enable: true
-    text: See all blog posts
-    link: post/     
- frontmatter:
-   date: ["date", "publishDate", "lastmod"]
-   lastmod: ["lastmod", "date", "publishDate", ":git"]
-   publishDate: ["publishDate", "date"]
-   expiryDate: ["expiryDate"]
+  enable: true
+  text: See all blog posts
+  link: post/     
+frontmatter:
+  date: ["date", "publishDate", "lastmod"]
+  lastmod: ["lastmod", "date", "publishDate", ":git"]
+  publishDate: ["publishDate", "date"]
+  expiryDate: ["expiryDate"]
