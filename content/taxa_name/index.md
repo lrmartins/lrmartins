@@ -18,6 +18,3 @@ description: |2-
         * _Yemoja_ Martins & Souto, 2020, New genus
         
 ---
-
-
-{{< taxa_name >}}
