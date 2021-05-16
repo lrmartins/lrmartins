@@ -1,5 +1,5 @@
 ---
-title: News
+title: SciComm
 cms_exclude: true
 
 # View.
