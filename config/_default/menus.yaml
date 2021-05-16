@@ -23,7 +23,7 @@ main:
     url: '#mentorship'
     weight: 60
   - name: Taxa Name
-    url: '#taxa%20Name'
+    url: '#taxa_name'
     weight: 70
   - name: News
     url: '#news'
