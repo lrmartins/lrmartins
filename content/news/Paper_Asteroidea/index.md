@@ -7,11 +7,14 @@ date: "2021-04-15"
 lastmod: "2021-04-15"
 profile: false
 comments: false
+draft: false
+
 image:
   caption: ""
   focal_point: ""
   placement: 2
   preview_only: true
+
 ---
 
 ---
