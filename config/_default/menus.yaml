@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 30
   - name: SciComm
-    url: '#sciComm'
+    url: '#news'
     weight: 40
   - name: Teaching
     url: '#teaching'
@@ -26,7 +26,7 @@ main:
     url: '#taxa Name'
     weight: 70
   - name: News
-    url: '#news'
+    url: '#post'
     weight: 80
   - name: Photos
     url: '#photos'
