@@ -1,5 +1,5 @@
 ---
-title: News
+title: Teaching
 cms_exclude: true
 
 # View.
