@@ -11,9 +11,6 @@ weight: 66
 
 title: Photos
 subtitle: Click to see images in larger size
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '3'
 ---
 
 {{< gallery >}}
