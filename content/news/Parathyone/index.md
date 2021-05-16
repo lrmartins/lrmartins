@@ -20,6 +20,4 @@ image:
 Check out my new paper in Zootaxa with Marcos Tavares on understanding the taxonomy of holothuroids!
 
 ---
-![trindade](https://raw.githubusercontent.com/rosanafcunha/rosanafcunha/master/static/media/trindade.png "trindade")
 
----
