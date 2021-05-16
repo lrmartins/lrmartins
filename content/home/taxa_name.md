@@ -19,5 +19,3 @@ description: |2-
         
 ---
 
-
-{{< taxa_name >}}
