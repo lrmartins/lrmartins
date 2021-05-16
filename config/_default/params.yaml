@@ -36,13 +36,6 @@ address:
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links : [
-  {icon : "twitter", 
-  icon_pack : "fab", 
-  name : "Twitter", 
-  link : "https://twitter.com/martinsrlu"},
-  ]
-
 
 # Site header
 
