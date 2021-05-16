@@ -11,7 +11,6 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Museum of Zoology of the University of São Paulo
-  url: http://mz.usp.br/pt/pagina-inicial/
 
 # Short bio (displayed in user profile at end of posts)
 
