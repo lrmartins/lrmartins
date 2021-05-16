@@ -26,13 +26,13 @@ phone : "+55 (11) 2065-8100"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address:
-  location: "Museum of Zoology of the University of São Paulo"
-  street: "481 Av. Nazaré"
+address: 
+  street: "Museum of Zoology of the University of São Paulo, 481 Av. Nazaré"
   city: São Paulo, Brazil
+  country: Brazil
   #region: SP
   #postcode: '04263-000'
-  country: "Brazil"
+  
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
