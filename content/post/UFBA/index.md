@@ -20,6 +20,6 @@ graduated from the university. it is an honor for me to receive this nomination,
 
 ---
 
-![UFBA](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/news/UFBA/featured.png "UFBA")
+![UFBA](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/UFBA/featured.png "UFBA")
 
 ---
