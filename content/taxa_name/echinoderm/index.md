@@ -15,9 +15,9 @@ image:
   preview_only: true
 ---
 
-![image](https://user-images.githubusercontent.com/83780390/118414706-9c55ca00-b67c-11eb-8164-a3658ea726b7.png) _Chantalia conandae_ Martins & Souto, 2020, new genus and new species
-Yemoja Martins & Souto, 2020 New genus
-Psolidium nanoplax Martins & Tavares, 2020 New species
+_Chantalia conandae_ Martins & Souto, 2020, new genus and new species
+_Yemoja_ Martins & Souto, 2020 New genus
+_Psolidium nanoplax_ Martins & Tavares, 2020 New species
 Psolidium lonchostinum Martins & Tavares, 2020 New species
 Eurhodiidae Souto et al., 2019 New family
 Havelockia smirnovi Martins, 2019 New species
