@@ -15,7 +15,9 @@ image:
   placement: 2
   preview_only: true
 ---
+My post in the blog Science in the News about the early divergences in the animal tree of lif
 
+---
 
 
 
