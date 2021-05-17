@@ -4,7 +4,7 @@ view: 1
 title: "Echinoderm taxa name" 
 date: 2020-08-10T20:39:13+02:00
 draft: false
-font_size: S
+font_size: XS
 ---
 ---
 _Chantalia conandae_ Martins & Souto, 2020 (New genus and new species)
