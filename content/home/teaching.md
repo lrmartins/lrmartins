@@ -22,6 +22,7 @@ content:
     author: ""
     category: ""
     tag: ""
+    date: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
