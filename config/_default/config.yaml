@@ -99,9 +99,9 @@ caption: "Write your image caption here"
 # SITE SETUP
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme: "alison"
+color_theme: 1950s
 
 # Font style.
 # Choose from `default`, `classic`, or `playfair`.
-font: "alison"
+font: classic
 
