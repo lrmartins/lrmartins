@@ -20,16 +20,16 @@ main:
     url: 'teaching/'
     weight: 50
   - name: SciComm
-    url: '#scicomm'
+    url: 'scicomm/'
     weight: 60
   - name: Taxa Name
-    url: '#taxa_name'
+    url: 'taxa_name/'
     weight: 70
-  - name: Photos
-    url: 'gallery/'
-    weight: 80
   - name: News
     url: '#news'
+    weight: 80
+  - name: Photos
+    url: 'gallery/'
     weight: 90
   - name: Contact
     url: '#contact'
