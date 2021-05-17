@@ -1,5 +1,5 @@
 ---
-title: Phylum Echinodermata: collecting methods, curating and taxonomy
+title: "Phylum Echinodermata: collecting methods, curating and taxonomy"
 reading_time: false
 summary: Universidade Federal da Bahia, 2009 & 2010
 authors:
