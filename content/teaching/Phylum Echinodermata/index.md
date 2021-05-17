@@ -1,5 +1,5 @@
 ---
-title: Marine Biology
+title: Phylum Echinodermata: collecting methods, curating and taxonomy
 reading_time: false
 summary: Universidade Federal da Bahia, 2009 & 2010
 authors:
