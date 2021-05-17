@@ -5,12 +5,12 @@ name = "rtheme"
 light = true
 
 # Primary
-primary = "#2962FF"
+primary = "#A93226"
 
 # Menu
 menu_primary = "#000000"
 menu_text = "#CDCCCC"
-menu_text_active = "#2962ff"
+menu_text_active = "#A93226"
 menu_title = "#FFFFFF"
 
 # Home sections
