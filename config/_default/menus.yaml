@@ -20,7 +20,7 @@ main:
     url: '#teaching'
     weight: 50
   - name: Mentorship
-    url: '#mentorship'
+    url: '#people'
     weight: 60
   - name: Taxa Name
     url: '#taxa_name'
