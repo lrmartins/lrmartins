@@ -95,3 +95,13 @@ gallery_item:
 album: "images"
 image: "img1.jpg"
 caption: "Write your image caption here"
+
+# SITE SETUP
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme: "alison"
+
+# Font style.
+# Choose from `default`, `classic`, or `playfair`.
+font: "alison"
+
