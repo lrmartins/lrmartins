@@ -28,7 +28,7 @@ main:
   - name: News
     url: '#news'
     weight: 80
-  - name: Photos
+  - name: Gallery
     url: 'gallery/'
     weight: 90
   - name: Contact
