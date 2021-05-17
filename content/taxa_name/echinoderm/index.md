@@ -1,5 +1,4 @@
 ---
-title: Echinoderm taxa named
 reading_time: false
 authors:
 date: "2020-02-19"
