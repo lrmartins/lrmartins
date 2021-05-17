@@ -13,23 +13,23 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: SciComm
-    url: 'scicomm/'
+  - name: Mentorship
+    url: '#people'
     weight: 40
   - name: Teaching
     url: 'teaching/'
     weight: 50
-  - name: Mentorship
-    url: '#people'
+  - name: SciComm
+    url: 'scicomm/'
     weight: 60
   - name: Taxa Name
     url: 'taxa_name/'
     weight: 70
+   - name: Gallery
+    url: 'gallery/'
+    weight: 80
   - name: News
     url: '#news'
-    weight: 80
-  - name: Gallery
-    url: 'gallery/'
     weight: 90
   - name: Contact
     url: '#contact'
