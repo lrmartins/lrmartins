@@ -1,5 +1,5 @@
 ---
-title: "Organismos simples e estruturas complexas: um estudo de caso com Holothuroidea (Echinodermata) através do uso de microscopia eletrônica de varredura (MEV) e microtomografia"
+title: "Simple organisms and complex structures: a case study with Holothuroidea (Echinodermata) using scanning electron microscopy (SEM) and microtomography"
 reading_time: false
 summary: Universidade Federal do Rio Grande do Sul, 2021
 authors:
