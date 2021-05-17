@@ -21,7 +21,6 @@ main:
     weight: 50
   - name: Mentorship
     url: 'people/'
-    weight: 60
   - name: Taxa Name
     url: 'taxa_name/'
     weight: 70
@@ -30,7 +29,7 @@ main:
     weight: 80
   - name: Photos
     url: 'gallery/'
-    weight: 90
+    weight: 56
   - name: Contact
     url: '#contact'
     weight: 100
