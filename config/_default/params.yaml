@@ -7,7 +7,7 @@
 
 theme: rtheme
 day_night: true
-font: 'classic'
+font: ''
 font_size: L
 
 # SEO
