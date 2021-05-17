@@ -6,7 +6,7 @@ authors:
 date: ""
 profile: false
 comments: false
-draft: true
+draft: false
 
 image:
   caption: ""
