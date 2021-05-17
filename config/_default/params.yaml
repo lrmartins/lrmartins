@@ -8,10 +8,6 @@
 theme: rtheme
 day_night: true
 font: 'classic'
-heading_font: 'classic'
-body_font: 'classic'
-nav_font: 'classic'
-mono_font: 'classic'
 font_size: L
 
 # SEO
