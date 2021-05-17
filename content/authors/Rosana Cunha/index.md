@@ -7,7 +7,7 @@ user_groups: ["Alumni"]
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Master in Zoology
 
 # Organizations/Affiliations to show in About widget
 organizations:
