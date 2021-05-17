@@ -17,15 +17,15 @@ main:
     url: '#people'
     weight: 40
   - name: Teaching
-    url: 'teaching/'
+    url: '#teaching'
     weight: 50
   - name: SciComm
-    url: 'scicomm/'
+    url: '#scicomm'
     weight: 60
   - name: Taxa Name
-    url: 'taxa_name/'
+    url: '#taxa_name'
     weight: 70
-  - name: Gallery
+  - name: Photos
     url: 'gallery/'
     weight: 80
   - name: News
