@@ -1,0 +1,10 @@
+# Font style metadata
+name = "classic"
+
+# Optional Google font URL
+
+# Font families
+heading_font = "classic"
+body_font = "classic"
+nav_font = "classic"
+mono_font = "classic"
