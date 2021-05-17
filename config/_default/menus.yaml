@@ -25,11 +25,11 @@ main:
   - name: Taxa Name
     url: 'taxa_name/'
     weight: 70
-  - name: News
-    url: '#news'
-    weight: 80
   - name: Photos
     url: 'gallery/'
+    weight: 80
+  - name: News
+    url: '#news'
     weight: 90
   - name: Contact
     url: '#contact'
