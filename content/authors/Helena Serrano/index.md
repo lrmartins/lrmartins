@@ -11,6 +11,6 @@ role: MSc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: "Universidade Estadual de Campinas (UNICAMP)"
+- name: Universidade Estadual de Campinas
 
 ---
