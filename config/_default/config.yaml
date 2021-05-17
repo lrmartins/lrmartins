@@ -90,6 +90,7 @@ frontmatter:
   lastmod: ["lastmod", "date", "publishDate", ":git"]
   publishDate: ["publishDate", "date"]
   expiryDate: ["expiryDate"]
+  active: true
 gallery_item:
 album: "images"
 image: "img1.jpg"
