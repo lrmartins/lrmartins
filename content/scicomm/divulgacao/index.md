@@ -16,7 +16,5 @@ image:
 ---
 My post on the instagram [Museu de Zoologia da USP](https://www.instagram.com/p/CLKTakkHhyV/) about the comparative anatomy studies as the most robust sources of evidence for evolutionary theory.
 
----
-
 
 
