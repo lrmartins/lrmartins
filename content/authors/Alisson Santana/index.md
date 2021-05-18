@@ -7,7 +7,7 @@ user_groups: ["Alumni"]
 superuser: false
 
 # Role/position/tagline
-role: MSc & PhD in Animal Diversity
+role: MSc & PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
