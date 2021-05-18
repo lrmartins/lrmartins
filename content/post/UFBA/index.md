@@ -16,7 +16,7 @@ image:
 
 ---
 Just got the wonderful news that the Universidade Federal da Bahia, Brazil ([UFBA](https://www.ufba.br)) nominated me for the recognition award among several students who 
-graduated from the university. it is an honor for me to receive this nomination, and have my research work recognized by one of the best educational institutions in Brazil.
+graduated from the university. It is an honor for me to receive this nomination, and have my research work recognized by one of the best educational institutions in Brazil.
 
 ---
 
