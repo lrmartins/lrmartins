@@ -17,6 +17,6 @@ image:
 
 ---
 
-Check out my new paper in Zootaxa with Marcos Tavares on understanding the taxonomy of holothuroids!
+Check out my new paper in [Zootaxa](https://www.mz.usp.br) with Marcos Tavares on understanding the taxonomy of holothuroids!
 
 ---
