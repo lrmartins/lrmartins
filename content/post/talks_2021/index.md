@@ -14,7 +14,7 @@ image:
 ---
 
 ---
-Talks about the beauty and complexity morphology of the sea cucumbers
+Talks about the beauty and complex morphology of the sea cucumbers
 
 ---
 
