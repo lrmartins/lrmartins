@@ -4,7 +4,7 @@ title: Rafael Pankratz
 user_groups: ["Alumni"]
 
 # Is this the primary user of the site?
-superuser: trueauthors
+superuser: false
 
 # Role/position/tagline
 role: Undergraduate Student, Biology
