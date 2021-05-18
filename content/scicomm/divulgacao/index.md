@@ -2,7 +2,7 @@
 title: How does an anatomical study relate to evolutionary theory?
 reading_time: false
 summary: Post on a Scientific Instagram
-authors: Luciana Martins
+authors: 
 date: "2021-02-11"
 profile: false
 comments: false
