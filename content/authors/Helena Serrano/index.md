@@ -4,10 +4,10 @@ title: Helena Serrano
 user_groups: ["Graduate Students"]
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: MSc
+role: MSc Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
