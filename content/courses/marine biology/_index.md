@@ -19,7 +19,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Marine Biology
-    weight: 1
+    weight: 2
 
 ---
 **Instructor of Record**
