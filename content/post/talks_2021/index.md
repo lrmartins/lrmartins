@@ -1,9 +1,9 @@
 ---
 reading_time: false
 title: Talks at UEFS and UFRGS
-summary: Presented my work in the Echinoderms Functional Biology and Systematics class at UEFS and Invertebrate Zoology class at UFRGS, in Brazil. Fun time sharing knowledge with students! 
+summary: Presented my work in the Echinoderms Functional Biology and Systematics class at UEFS and in the Invertebrate Zoology class at UFRGS, in Brazil. Fun time sharing knowledge with students! 
 authors:
-date: 2021-04-10
+date: 2021-05-12
 profile: false
 comments: false
 image:
@@ -14,10 +14,10 @@ image:
 ---
 
 ---
-Escrever um texto aqui
+Talks about the beauty and complexity morphology of the sea cucumbers
 
 ---
 
-![UFBA](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/UFBA/featured.png "UFBA")
+![talks](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/talks_2021/featured.png "talks")
 
 ---
