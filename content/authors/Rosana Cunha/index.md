@@ -4,10 +4,10 @@ title: Rosana Cunha
 user_groups: ["Alumni"]
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Master in Zoology
+role: MSc
 
 # Organizations/Affiliations to show in About widget
 organizations:
