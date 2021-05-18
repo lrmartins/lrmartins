@@ -4,7 +4,7 @@ title: Alisson Santana
 user_groups: ["Alumni"]
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: MSc & PhD in Animal Diversity
