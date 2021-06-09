@@ -23,7 +23,7 @@ draft: false
 * _Havelockia mansoae_ Martins & Tavares, 2018 (New species)
 * _Cassidulus briareus_ Souto & Martins, 2018 (New species)
 * _Gymnopipina ikamiaba_ Souto & Martins, 2018 (New genus and new species)
-* _Kassandrina_ Souto & Martins, 2018 (New species)
+* _Kassandrina_ Souto & Martins, 2018 (New genus)
 * _Cucumaria solangeae_ Martins & Souto, 2015 (New species)
 * _Coronatum baiensis_ Martins & Souto, 2012 (New genus and new species)
 
