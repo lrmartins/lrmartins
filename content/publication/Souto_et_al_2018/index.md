@@ -16,5 +16,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-11-01T03:54:00.000Z
-
 ---
