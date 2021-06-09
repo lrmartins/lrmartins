@@ -3,8 +3,7 @@ title: "Exploring the macrostructural anatomy of dendrochirotid sea cucumber's (
 publication_types:
   - "2"
 authors:
-  - Martins
-  - L.; 
+  - Martins L.; 
   - Souto
   - C. & Tavares
   - M.
