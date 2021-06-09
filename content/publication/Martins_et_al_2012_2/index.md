@@ -7,7 +7,7 @@ authors:
   - L.; Souto
   - C. & Menegola
   - C.
-doi: https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3506.1.4
+doi: https://doi.org/10.11646/zootaxa.3506.1.4
 publication: _Zootaxa_
 draft: false
 featured: false
