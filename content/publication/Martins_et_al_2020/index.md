@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - L.; Souto
+  - L. Souto
   - C. & Tavares
   - M.
 doi: https://doi.org/10.1111/joa.13385
