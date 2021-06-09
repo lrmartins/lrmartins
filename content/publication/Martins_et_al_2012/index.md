@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Martins
-  - L.; Souto
+  - L.;Souto
   - C.; Magalhães
   - W.; Alves
   - O.; Rosa
