@@ -3,7 +3,9 @@ title: "Giving up on elaborate dermal ossicles: a new genus of ossicleless Apodi
 publication_types:
   - "2"
 authors:
-  - "Souto, C; Martins, L. & Menegola, C."
+  - Souto, C; 
+  - Martins, L. 
+  - & Menegola, C.
 doi: https://doi.org/10.1017/S0025315417001084
 publication: _Journal of the Marine Biological Association of the United Kingdom_
 draft: false
