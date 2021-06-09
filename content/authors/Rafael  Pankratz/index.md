@@ -7,7 +7,7 @@ user_groups: ["Alumni"]
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate Student, Biology
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
