@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD in Systematics, Animal Taxonomy and Biodiversity
-    institution: University of São Paulo
+    institution: Zoology Museum, São Paulo University, Brazil
     year: 2017
   - course: MSc in Animal Diversity
     institution: Universidade Federal da Bahia
