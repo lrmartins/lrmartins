@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Souto
-  - C.;Martins
+  - C.; Martins
   - L. & Menegola
   - C.
 doi: https://doi.org/10.1017/S0025315417001084
@@ -16,4 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-11-01T03:54:00.000Z
+
 ---
