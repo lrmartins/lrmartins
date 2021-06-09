@@ -16,5 +16,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2008-09-01T03:54:00.000Z
+links:
+  - name: PDF
+    url: publication/Manso_et_al_2008/2008_Echinoderms from Todos os Santos Bay and Aratu Bay.pdf
 
 ---
