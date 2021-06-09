@@ -15,5 +15,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-03-01T03:54:00.000Z
+links:
+  - name: PDF
+    url: publication/Martins_and_Tavares_2018_2/Martins& Tavares_2018a_Y. bitentaculata.pdf
 
 ---
