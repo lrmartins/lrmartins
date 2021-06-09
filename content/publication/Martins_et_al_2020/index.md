@@ -5,7 +5,9 @@ publication_types:
 authors:
   - Martins
   - L.;Souto
-  - C. & Tavares,M.
+  - C. & Tavares,
+  - M.
+  - 
 doi: https://doi.org/10.1111/joa.13385
 publication: _Journal of Anatomy_
 draft: false
