@@ -19,4 +19,4 @@ raise the pH of the water and lessen the effects of acidification, which helps t
 
 Want to know a little bit more, click on the link below! 
 
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001755
+[JOURNAL OF GEOPHYSICAL RESEARCH](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001755)
