@@ -12,7 +12,7 @@ publication: _Zootaxa_
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2012-10-01T03:54:00.000Z
