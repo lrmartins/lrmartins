@@ -32,6 +32,4 @@ Spring 2021
 
 Descrever a disciplina aqui
 
-![UFRGS](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/courses/Talk%20UFRGS/featured.png "UFRGS")
-
 ---
