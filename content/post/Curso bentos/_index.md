@@ -18,6 +18,6 @@ Course about benthic resources exploited including echinoderms!
 
 ---
 
-![featured](https://user-images.githubusercontent.com/83780390/121578213-cfcc1000-ca00-11eb-899f-25cbc166096e.jpg)
+![talk](https://user-images.githubusercontent.com/83780390/121578213-cfcc1000-ca00-11eb-899f-25cbc166096e.jpg "talks")
 
 ---
