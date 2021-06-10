@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: "Phylum Echinodermata: collecting methods, curating and taxonomy"
-    weight: 4
+    weight: 6
 ---
 
 **Guest Lecture**
