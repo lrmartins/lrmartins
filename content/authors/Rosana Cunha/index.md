@@ -17,8 +17,6 @@ organizations:
 
 ---
 
-Fui orientadora de ...
-
 [CV Lattes](http://lattes.cnpq.br/8513044229125958)
 
 ---
