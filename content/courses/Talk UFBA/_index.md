@@ -7,7 +7,7 @@
 # Page metadata.
 title: "O uso de fósseis e a história evolutiva dos cassiduloides (Echinoidea) e evolução do anel calcário em Dendrochirotida( Holothuroidea)"
 summary: Universidade Federal da Bahia, 2021
-date: "2021-06-1T00:00:00Z"
+date: "2021-06-10 T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
