@@ -2,7 +2,7 @@
 # Course title, summary, and position in the list.
 # linktitle: An Example Course
 # summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-# weight: 6
+# weight: 1
 
 # Page metadata.
 title: "Phylum Echinodermata: collecting methods, curating and taxonomy"
