@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: "Simple organisms and complex structures: a case study with Holothuroidea (Echinodermata) using scanning electron microscopy (SEM) and microtomography"
-    weight: 1
+    weight: 2
     
 ---
 
