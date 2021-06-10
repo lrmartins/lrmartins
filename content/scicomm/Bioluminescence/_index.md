@@ -1,5 +1,5 @@
 ---
-title: Bioluminescence in  echinoderms
+title: Bioluminescence in echinoderms
 reading_time: false
 summary: Post on a Scientific Instagram
 authors: 
