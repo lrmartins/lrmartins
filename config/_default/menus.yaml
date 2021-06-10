@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 30
   - name: Mentorship
-    url: '#people'
+    url: 'people/'
     weight: 40
   - name: Teaching
     url: 'courses/'
