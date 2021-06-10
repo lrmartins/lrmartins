@@ -29,5 +29,7 @@ Spring 2021
 [WEBSITE](https://biologia.ufba.br/)
 
 ---
+
 ![UFBA](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/courses/Talk%20UFBA/featured.jpg "UFBA")
+
 ---
