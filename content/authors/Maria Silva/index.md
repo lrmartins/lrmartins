@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rosana Cunha
-user_groups: ["Graduate"]
+user_groups: ["Graduate Students"]
 
 # Is this the primary user of the site?
 superuser: false
