@@ -14,11 +14,10 @@ image:
 ---
 
 ---
-Course about benthic resources exploited including echinoderms!![IMG_8357](https://user-images.githubusercontent.com/83780390/121577863-64823e00-ca00-11eb-8a91-359190f60ab9.jpg)
-
+Course about benthic resources exploited including echinoderms!
 
 ---
 
-![talks](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/talks_2021/featured.png "talks")
+![featured](https://user-images.githubusercontent.com/83780390/121578213-cfcc1000-ca00-11eb-899f-25cbc166096e.jpg)
 
 ---
