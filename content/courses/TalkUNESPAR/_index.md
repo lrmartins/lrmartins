@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: "Aspectos morfofuncionais dos Holothuroidea (Echinodermata) com ênfase em reprodução"
-    weight: 1
+    weight: #1
     
 ---
 
