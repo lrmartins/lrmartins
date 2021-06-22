@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: "O uso de fósseis e a história evolutiva dos cassiduloides (Echinoidea) e evolução do anel calcário em Dendrochirotida (Holothuroidea)"
-    weight: 1
+    weight: 2
     
 ---
 
