@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Systematics and biology of the Echinodermat
-    weight: 5
+    weight: 7
     
 ---
 
