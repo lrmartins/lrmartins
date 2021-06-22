@@ -27,6 +27,4 @@ item:
     overlay_filter: 0  # Darken the image. Value in range 0-1.
 
  
-    
-  
----
+      ---
