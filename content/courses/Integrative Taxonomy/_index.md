@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: Integrative Taxonomy Workshop
-    weight: 4
+    weight: 5
 
 ---
 
