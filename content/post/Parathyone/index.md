@@ -17,6 +17,10 @@ image:
 
 ---
 
-Check out my new paper in [Zootaxa](https://www.mz.usp.br) with Marcos Tavares on understanding the taxonomy of holothuroids!
+Check out my new paper in [Zootaxa](https://mapress.com/zt/article/view/zootaxa.4985.2.7) with Marcos Tavares on understanding the taxonomy of holothuroids!
+
+---
+
+![paper_parathyone](https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/Parathyone/featured.jpg "paper_parathyone")
 
 ---
