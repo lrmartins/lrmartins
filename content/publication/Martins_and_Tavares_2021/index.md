@@ -1,5 +1,5 @@
 ---
-title: "A new species of Parathyone (Holothuroidea:Dendrochirotida:Cucumariidae) from northeastern Brazil, with a key to species"
+title: "A new species of Parathyone (Holothuroidea: Dendrochirotida: Cucumariidae) from northeastern Brazil, with a key to species"
 publication_types:
   - "2"
 authors:
