@@ -1,5 +1,5 @@
 ---
-title: Have you ever been curious to know which are the most different collections at Museum of Zoology of the University of São Paulo?
+title: Have you ever been curious to know which are the most different collections at the Museum of Zoology of the University of São Paulo?
 reading_time: false
 summary: Post on a Scientific Instagram
 authors: 
