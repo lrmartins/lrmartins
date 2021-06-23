@@ -6,7 +6,7 @@ date: 2020-08-10T20:39:13+02:00
 draft: false
 ---
 
-* _Parathyone itapuaensis_ Martins & Tavares, 2021 (New species)
+
 * _Chantalia conandae_ Martins & Souto, 2020 (New genus and new species)
 * _Yemoja_ Martins & Souto, 2020 (New genus)
 * _Psolidium nanoplax_ Martins & Tavares, 2020 (New species)
