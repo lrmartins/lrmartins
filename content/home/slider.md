@@ -17,7 +17,7 @@ height: 520px
 
 item:
   - overlay_color: '#666'  # An HTML color value.
-    overlay_img: featured.jpeg  # Image path relative to your `assets/media/` folder
+    overlay_img: featured.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1. 
   - overlay_color: '#666'  # An HTML color value.
     overlay_img: 1.jpg  # Image path relative to your `assets/media/` folder
