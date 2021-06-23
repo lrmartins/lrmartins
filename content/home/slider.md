@@ -26,5 +26,4 @@ item:
     overlay_img: 4.jpeg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
 
- 
-      ---
+---
