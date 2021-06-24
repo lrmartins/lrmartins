@@ -13,5 +13,4 @@ image:
 Cassiduloids are irregular echinoids (like sand dollars and heart urchins) that live mainly in shallow tropical waters. 
 There are only about 35 living cassiduloids, but their fossil record is relatively rich. 
 We try to understanding the cassiduloid anatomy, biodiversity, relationships, and the processes that have affected their evolution since their origin in the Cretaceous
-
 ---
