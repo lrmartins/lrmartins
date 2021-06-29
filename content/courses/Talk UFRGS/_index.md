@@ -30,6 +30,3 @@ Spring 2021
 
 ---
 
-Descrever a disciplina aqui
-
----
