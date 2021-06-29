@@ -31,7 +31,8 @@ Winter 2021
 
 ---
 
-![featured](https://github.com/lrmartins/lrmartins/blob/master/content/courses/Fisheries/featured.png)
+
+![featured](https://github.com/lrmartins/lrmartins/blob/master/content/courses/Fisheries/featured.png?raw=true)
 
 ---
 O cultivo de pepinos-do-mar (Holothuroidea) fornece uma fonte de renda para milhões de pescadores costeiros e é considerada uma das atividades aquícolas que mais crescem no mundo.
