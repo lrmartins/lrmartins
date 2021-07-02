@@ -1,4 +1,5 @@
 ---
+featured: true
 reading_time: false
 title: Course about benthic resources exploited
 summary:  
