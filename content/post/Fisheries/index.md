@@ -4,7 +4,7 @@ reading_time: false
 title: Pepinos-do-mar (Echinodermata:Holothuroidea) um recurso desconhecido no Brasil. Pesca ilegal e cultivo
 summary:  
 authors:
-date: 2021-07-01
+date: 2021-07-27
 profile: false
 comments: false
 image:
