@@ -13,5 +13,5 @@ image:
   placement: 2
   preview_only: true
 ---
-https://github.com/lrmartins/lrmartins/blob/master/content/post/Fisheries/featured.jpeg.jpg?raw=true
+(https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/post/Fisheries/featured.jpeg.jpg)
 ---
