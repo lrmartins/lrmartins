@@ -14,6 +14,6 @@ image:
   preview_only: true
 ---
 
-!(https://github.com/lrmartins/lrmartins/blob/master/content/post/Fisheries/featured.jpg?raw=true)
+https://github.com/lrmartins/lrmartins/blob/master/content/post/Fisheries/featured.jpg?raw=true
 
 ---
