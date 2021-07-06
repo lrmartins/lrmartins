@@ -13,7 +13,6 @@ image:
   placement: 1
   preview_only: true
 ---
-
-https://github.com/lrmartins/lrmartins/blob/master/content/post/Fisheries/featured.jpg?raw=true
+![talks](https://github.com/lrmartins/lrmartins/blob/master/content/post/Fisheries/featured.jpg?raw=true "talks")
 
 ---
