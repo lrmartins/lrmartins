@@ -10,16 +10,17 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Museum of Zoology of the University of São Paulo
+- name: Oceanographic Institute of the University of São Paulo
 
 # Short bio (displayed in user profile at end of posts)
 
 
 # Interests to show in About widget
 interests:
-- Marine Invertebrates (Holothuroidea and Echinoidea)
+- Marine Invertebrates (Holothuroidea, Crinoidea and Echinoidea)
 - Evolutionary Biology
 - Systematics of echinoderms
+- Paleobiology
 
 # Education to show in About widget
 education:
@@ -76,8 +77,6 @@ email: "martinsrluciana@gmail.com"
 highlight_name: false
 ---
 
-I am a Zoologist interested in understanding the evolution of echinoderms, especially sea cucumbers and sea urchins. Interests me the evolution of the calcareous ring in 
-Holothuroidea and parallel evolution of oral structures in cassiduloids (Echinoidea). To do so, I have been using molecular and morphological techniques such as Scanning 
-Electron Microscope (SEM), micro-tomography (μCT) and fossil information. I currently work as a postdoctoral researcher at the Museum of Zoology of the University of São Paulo 
-([MZUSP](https://www.mz.usp.br)).
+I am a Zoologist interested in understanding the evolution of echinoderms, especially sea cucumbers, sea urchins and crinoids. Interests me the evolution of the calcareous ring in Holothuroidea and parallel evolution of oral structures in cassiduloids (Echinoidea). To do so, I have been using molecular and morphological techniques such as Scanning Electron Microscope (SEM), micro-tomography (μCT) and fossil information. I integrate data from Zoology and Paleobiology. I currently work as a postdoctoral researcher at the Oceanographyc Institute of the University of São Paulo. 
+([IOUSP](https://www.io.usp.br)).
 
