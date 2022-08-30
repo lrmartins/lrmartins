@@ -27,8 +27,8 @@ phone : "+55 (11) 2065-8100"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address: 
-  street: "Museum of Zoology of the University of São Paulo, Marine Invertebrates Laboratory, 481 Av. Nazaré, Ipiranga, São Paulo, Brazil"
-  postcode: 04263-000
+  street: "Oceanographic Institute of the University of São Paulo, LAPAS Lab, Praça do Oceanográfico, São Paulo, Brazil"
+  postcode: 05508-120
   country: Brazil
 
 # Contact links
