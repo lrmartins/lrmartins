@@ -7,7 +7,7 @@ draft: false
 ---
 
 ---
-
+* _Thorsonia hedingi_ Martins & Tavares, 2022 (New species)
 * _Parathyone itapuaensis_ Martins & Tavares, 2021 (New species)
 * _Chantalia conandae_ Martins & Souto, 2020 (New genus and new species)
 * _Yemoja_ Martins & Souto, 2020 (New genus)
