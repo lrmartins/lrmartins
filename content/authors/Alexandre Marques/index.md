@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Alexandre Marques
-user_groups: ["Undergraduate Students"]
+user_groups: ["Alumni"]
 
 # Is this the primary user of the site?
 superuser: false
