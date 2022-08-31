@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Cecília Damiano
-user_groups: ["graduate Students"]
+user_groups: ["Graduate Students"]
 
 # Is this the primary user of the site?
 superuser: false
