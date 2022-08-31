@@ -29,7 +29,3 @@ Fall 2020
 [WEBSITE](https://www.mz.usp.br)
 
 ---
-
-Descrever a disciplina aqui
-
----
