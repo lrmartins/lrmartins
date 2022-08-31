@@ -1,7 +1,7 @@
 ---
 title: Minding the gap on the taxonomic diversity of Crinoidea (Echinodermata) in Brazil
 date: 2022-08-31T04:02:47.483Z
-summary: " Minding the gap on the taxonomic diversity of Crinoidea (Echinodermata) in Brazil
+summary: "Minding the gap on the taxonomic diversity of Crinoidea (Echinodermata) in Brazil"
 draft: false
 featured: false
 image:
