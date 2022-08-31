@@ -15,6 +15,8 @@ organizations:
 
 ---
 
+---
+
 [CV Lattes](http://lattes.cnpq.br/8170632029406309)
 
 ---
