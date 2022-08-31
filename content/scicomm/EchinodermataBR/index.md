@@ -1,7 +1,7 @@
 ---
-title: Echinoidermata BR
+title: Echinodermata BR
 reading_time: false
-summary: Post on a Scientific Instagram
+summary: A social media dedicated to scientific divulgation of echinoderms
 authors: 
 date: "2022-08-31"
 profile: false
