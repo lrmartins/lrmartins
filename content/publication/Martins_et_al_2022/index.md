@@ -1,5 +1,5 @@
 ---
-title: "AAn annotated catalogue of Echinodermata types in the Museu de Zoologia, Universidade de São Paulo, Brazil"
+title: "An annotated catalogue of Echinodermata types in the Museu de Zoologia, Universidade de São Paulo, Brazil"
 publication_types:
   - "2"
 authors:
