@@ -15,5 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-01-01T03:54:00.000Z
-
 ---
