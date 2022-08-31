@@ -14,3 +14,7 @@ organizations:
 - name: Museum of Zoology of the University of São Paulo
 
 ---
+
+[CV Lattes](http://lattes.cnpq.br/8170632029406309)
+
+---
