@@ -14,3 +14,9 @@ organizations:
 - name: Pós-graduação em Biologia Animal/Biodiversidade Animal/UNICAMP
 
 ---
+
+---
+
+[CV Lattes](http://lattes.cnpq.br/5058348826136179)
+
+---
