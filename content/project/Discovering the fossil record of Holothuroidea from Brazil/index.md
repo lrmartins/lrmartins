@@ -14,7 +14,3 @@ The phylum Echinodermata (sea urchins, sea stars, sea cucumbers) has been known 
 Grant Paleontological Society, Sepkoski Grants.
 
 ---
-
-https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/project/Discovering%20the%20fossil%20record%20of%20Holothuroidea%20from%20Brazil/Imagem2.jpg
-
----
