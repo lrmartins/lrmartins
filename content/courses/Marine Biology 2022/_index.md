@@ -31,6 +31,7 @@ Fall 2022
 ---
 
 https://github.com/lrmartins/lrmartins/blob/master/content/courses/Marine%20Biology%202022/0.JPG?raw=true
-
+https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/courses/Marine%20Biology%202022/20220330_070005.jpg
+https://raw.githubusercontent.com/lrmartins/lrmartins/master/content/courses/Marine%20Biology%202022/20220330_072031.jpg
 
 ---
