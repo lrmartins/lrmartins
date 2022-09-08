@@ -33,7 +33,7 @@ main:
     weight: 90
   - name: Contact
     url: '#contact'
-    weight: 120
+    weight: 110
   - name: Grants
     url: '#grants'
     weight: 100
