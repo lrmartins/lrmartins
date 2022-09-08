@@ -39,7 +39,7 @@ main:
     weight: 100
      - name: Awards
     url: 'awards/'
-    weight: 100
+    weight: 110
     
 
   
