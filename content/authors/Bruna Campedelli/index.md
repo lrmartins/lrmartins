@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Bruna Campedelli
-user_groups: ["Undergraduate student"]
+user_groups: ["Undergraduate Students"]
 
 # Is this the primary user of the site?
 superuser: false
