@@ -33,13 +33,13 @@ main:
     weight: 90
   - name: Contact
     url: '#contact'
-    weight: 110
+    weight: 120
   - name: Grants
     url: '#grants'
     weight: 100
     - name: Awards
     url: 'awards/'
-    weight: 100
+    weight: 110
   
     
 
