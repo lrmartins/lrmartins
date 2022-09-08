@@ -14,3 +14,7 @@ organizations:
 - name: Oceanographic Institute of the University of São Paulo
 
 ---
+
+[CV Lattes](http://lattes.cnpq.br/1682729493917330)
+
+---
