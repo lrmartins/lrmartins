@@ -37,7 +37,7 @@ main:
   - name: Grants
     url: '#grants'
     weight: 100
-     - name: Awards
+  - name: Awards
     url: 'awards/'
     weight: 110
     
