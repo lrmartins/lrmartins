@@ -7,7 +7,7 @@ authors:
   - L. & Tavares
   - M. 
 doi: https://doi.org/10.1007/s41208-022-00515-4
-publication: __Thalassas: An International Journal of Marine Sciences__
+publication: __Thalassas:An International Journal of Marine Sciences__
 draft: false
 featured: false
 image:
