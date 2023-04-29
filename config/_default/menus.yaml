@@ -34,9 +34,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 110
-  - name: Funded Projects
-    url: '#funded projects'
-    weight: 100
   - name: Awards
     url: 'awards/'
     weight: 110
