@@ -17,4 +17,5 @@ image:
 date: 2023-10-10T03:54:00.000Z
 
 ---
-![image](https://github.com/lrmartins/lrmartins/assets/83780390/473b9b52-5e5b-4e49-a7f3-ef2a40e4277f)
+![image] )https://github.com/lrmartins/lrmartins/blob/master/content/publication/Rupp_et_al_2023/featured.jpg4.jpg)
+
