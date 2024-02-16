@@ -15,4 +15,4 @@ image:
   preview_only: true
 ---
 
-My post on the [G1]([https://www.instagram.com/p/CFs8LOyH6Ml/](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml?utm_source=whatsapp&utm_medium=share-bar-desktop&utm_campaign=materias)https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml?utm_source=whatsapp&utm_medium=share-bar-desktop&utm_campaign=materias/) 
+My post on the [G1 newspaper](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml?utm_source=whatsapp&utm_medium=share-bar-desktop&utm_campaign=materias)
