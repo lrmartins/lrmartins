@@ -11,7 +11,7 @@ role: Biology course
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pós-graduação em Biologia Animal/Biodiversidade Animal/UNICAMP
+- name: PhD candidate at Biologia Animal/Biodiversidade Animal/UNICAMP
 
 ---
 
