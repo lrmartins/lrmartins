@@ -8,7 +8,7 @@ authors:
   - L.;Karen
   - C.& Toledo 
   - F.
-doi: https://doi.org/10.11606/1807-0205/2022.62.015](https://doi.org/10.1177/0959683623119776)
+doi: https://doi.org/10.1177/09596836231197764
 publication: _The Holocene_
 draft: false
 featured: false
