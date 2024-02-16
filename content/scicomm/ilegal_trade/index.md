@@ -14,5 +14,5 @@ image:
   placement: 2
   preview_only: true
 ---
-My post on the G1(https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml)https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml) about ilegal trade in sea cucumbers. Check out it!
+My post on the G1 about ilegal trade in sea cucumbers. (https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml)https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/01/25/mais-de-10-toneladas-de-pepinos-do-mar-sao-extraidas-ilegalmente-no-brasil-para-envio-a-asia.ghtml)  Check out it!
 
