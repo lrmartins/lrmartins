@@ -15,7 +15,7 @@ image:
   filename: featured.jpg4.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-10-10T03:54:00.000Z
+date: 2023-01-01T03:54:00.000Z
 
 ---
 ![image](https://github.com/lrmartins/lrmartins/assets/83780390/832fd14f-2af9-4693-9329-a9eadc2c531c)
