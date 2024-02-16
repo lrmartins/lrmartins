@@ -11,7 +11,7 @@ role: Biology course
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Museum of Zoology of the University of São Paulo
+- name: Oceanographic Institute of the University of São Paulo
 
 ---
 
