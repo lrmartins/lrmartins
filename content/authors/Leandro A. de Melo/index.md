@@ -1,6 +1,6 @@
 ---
 # Display name
-title: leandro A. de Melo
+title: Leandro A. de Melo
 user_groups: ["Undergraduate Students"]
 
 # Is this the primary user of the site?
@@ -11,7 +11,7 @@ role: Biology course
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oceanographic Federal Institute of São Paulo
+- name: Federal Institute of São Paulo
 
 ---
 
