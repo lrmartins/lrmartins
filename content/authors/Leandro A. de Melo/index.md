@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leandro Afeltro de Melo
+title: leandro A. de Melo
 user_groups: ["Undergraduate Students"]
 
 # Is this the primary user of the site?
@@ -11,12 +11,13 @@ role: Biology course
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Instituto Federal de São Paulo
+- name: Oceanographic Federal Institute of São Paulo
 
 ---
 
 ---
 
 [CV Lattes](http://lattes.cnpq.br/0262996665835850)
+
 
 ---
