@@ -6,18 +6,18 @@ title: Luciana Martins
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oceanographic Institute of the University of São Paulo
+- name: National Museum,Federal University of Rio de Janeiro, Brazil
 
 # Short bio (displayed in user profile at end of posts)
 
 
 # Interests to show in About widget
 interests:
-- Marine Invertebrates (Holothuroidea, Crinoidea and Echinoidea)
+- Marine Invertebrates (Holothuroidea, Echinoidea and Crinoidea)
 - Evolutionary Biology
 - Systematics of echinoderms
 - Paleobiology
