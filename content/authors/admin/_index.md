@@ -28,7 +28,7 @@ education:
   - course: PhD in Systematics, Animal Taxonomy and Biodiversity
     institution: Zoology Museum, São Paulo University, Brazil
     year: 2017
-  - course: MSc in Animal Diversity
+  - course: MsC in Animal Diversity
     institution: Universidade Federal da Bahia
     year: 2012
   - course: BSc in Biology, Zoology of aquatic organisms
