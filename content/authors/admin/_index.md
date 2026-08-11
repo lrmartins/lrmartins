@@ -77,5 +77,5 @@ email: "martinsrluciana@gmail.com"
 highlight_name: false
 ---
 
-I am a Zoologist interested in understanding the evolution of echinoderms, especially sea cucumbers, sea urchins and crinoids. Interests me the evolution of the calcareous ring in Holothuroidea and parallel evolution of oral structures in cassiduloids (Echinoidea). To do so, I have been using molecular and morphological techniques such as Scanning Electron Microscope (SEM), micro-tomography (μCT) and fossil information. I integrate data from Zoology and Paleobiology.
+I am a Zoologist interested in understanding the evolution of echinoderms, especially sea cucumbers, sea urchins and crinoids. Interests me the evolution of the calcareous ring in Holothuroidea and parallel evolution of oral structures in cassiduloids (Echinoidea). To do so, I have been using molecular and morphological techniques such as Scanning Electron Microscope (SEM), micro-tomography (μCT) and fossil information. I integrate data from Zoology and Paleobiology
 
