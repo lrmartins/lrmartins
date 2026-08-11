@@ -10,7 +10,7 @@ role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Museum,Federal University of Rio de Janeiro, Brazil
+- name: National Museum, Federal University of Rio de Janeiro, Brazil
 
 # Short bio (displayed in user profile at end of posts)
 
