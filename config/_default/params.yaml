@@ -27,7 +27,7 @@ phone : "+55 (21) 0000-0000"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address: 
-  street: "Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. Av. Bartolomeu de Gusmão, 875 - São Cristóvão"
+  street: "Avenida Bartolomeu de Gusmão, 875 - São Cristóvão.Campus de Pesquisa e Ensino do Museu Nacional/UFRJ"
   postcode: 20941-160
   country: Brazil
 
